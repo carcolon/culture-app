@@ -1,0 +1,16 @@
+export const colors = {
+  ink: '#1F2120',
+  paper: '#FFFFFF',
+  canvas: '#F5F4F0',
+  primary: '#5376BA',
+  primarySoft: '#5376BA52',
+  lavender: '#B69CC9',
+  lavenderSoft: '#B69CC94D',
+  yellow: '#D9CB0C',
+  orange: '#EE7727',
+  red: '#DC3E2F',
+  green: '#8DC742',
+  mint: '#85B79F',
+  sage: '#BFDA9B',
+  blush: '#EC888C',
+} as const;

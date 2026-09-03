@@ -1,0 +1,13 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/Culture.Api/Culture.Api.csproj" />
+    <Project Path="src/Culture.Application/Culture.Application.csproj" />
+    <Project Path="src/Culture.Domain/Culture.Domain.csproj" />
+    <Project Path="src/Culture.Infrastructure/Culture.Infrastructure.csproj" />
+    <Project Path="src/Culture.SharedKernel/Culture.SharedKernel.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/Culture.ArchitectureTests/Culture.ArchitectureTests.csproj" />
+    <Project Path="tests/Culture.UnitTests/Culture.UnitTests.csproj" />
+  </Folder>
+</Solution>
